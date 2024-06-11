@@ -1,7 +1,7 @@
 # Solving-a-System-of-First-Order-ODEs-using-Numerical-Methods
 This file contains python codes for Solving Systems of First Order ODEs using Numerical Methods. 
 
-The codes consist of the implementation of the 
+The codes consist of the implementation of the following numerical methods;
 
 1. Euler's Method,
 
